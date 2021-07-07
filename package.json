@@ -1,0 +1,22 @@
+{
+  "name": "gymBE",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/IsmaelAlomari/gymBE.git",
+  "author": "IsmaelAlomari <ismaelalomari994@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.6.5",
+    "sequelize-cli": "^6.2.0",
+    "sequelize-slugify": "^1.5.0",
+    "slugify": "^1.5.3"
+  }
+}
